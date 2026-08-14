@@ -1,0 +1,16 @@
+{
+  "name": "REPLACE_WITH_PLUGIN_NAME",
+  "slug": "REPLACE_WITH_SLUG",
+  "version": "1.0.0",
+  "author": "VCNS Tech Ltd",
+  "author_homepage": "https://vcns.tech.tech",
+  "requires": "6.4",
+  "tested": "6.7",
+  "requires_php": "8.1",
+  "download_url": "https://vcns.github.io/wp-updates/REPLACE_WITH_SLUG/REPLACE_WITH_SLUG-latest.zip",
+  "last_updated": "REPLACE_WITH_YYYY-MM-DD",
+  "homepage": "https://vcns.tech.tech",
+  "sections": {
+    "description": "REPLACE_WITH_ONE_LINE_DESCRIPTION"
+  }
+}
