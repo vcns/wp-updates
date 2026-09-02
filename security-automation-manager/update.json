@@ -1,18 +1,18 @@
 {
   "name": "Security Automation Manager",
   "slug": "security-automation-manager",
-  "version": "2.9.50",
+  "version": "2.9.51",
   "author": "VCNS Tech Ltd",
   "author_homepage": "https://vcns.tech",
   "requires": "6.4",
   "tested": "7.0",
   "requires_php": "8.1",
   "download_url": "https://vcns.github.io/wp-updates/security-automation-manager/security-automation-manager-latest.zip",
-  "sha256": "21329d43c53e68c63bd2191eb3b8d2170a78890833118c24f233929a79f72917",
+  "sha256": "fc2618243c598091dd581ab4c97bf9a96387de4d5e354c842b6d9f785f8fabdb",
   "last_updated": "2026-09-02",
   "homepage": "https://github.com/vcns/security-automation-manager",
   "sections": {
     "description": "Strict HTTP security header rollout, reporting, and decision review for WordPress.",
-    "changelog": "See https://github.com/vcns/security-automation-manager/releases/tag/v2.9.50"
+    "changelog": "See https://github.com/vcns/security-automation-manager/releases/tag/v2.9.51"
   }
 }
